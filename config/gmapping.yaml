@@ -1,0 +1,4 @@
+
+map_update_interval: 1.0
+linear update: 0.2
+angular update: 0.5
